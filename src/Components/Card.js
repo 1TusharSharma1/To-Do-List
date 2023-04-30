@@ -48,7 +48,7 @@ export default function Card() {
                   <div className="task">
                     <li>
                       {" "}
-                      <i class="fa-solid fa-trash fa-lg"></i> {value}
+                      <i className="fa-solid fa-trash fa-lg"></i> {value}
                     </li>
                   </div>
                 </>

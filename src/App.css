@@ -3,5 +3,11 @@
   padding: 0;
 }
 .App{
+  /* background-image: url("https://media.istockphoto.com/id/952039286/photo/abstract-background-wallpaper.jpg?b=1&s=170667a&w=0&k=20&c=O42TVdq7QcprHBQS6lrIw_AkF04c3AkyCmtM1ZGJitA=");
+  height: 1000px;
+  width: 1000px;
+  background-size: cover;
+  background-repeat: no-repeat; */
+
   background-color: rgb(202, 117, 233);
 }
