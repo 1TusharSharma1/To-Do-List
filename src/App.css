@@ -3,11 +3,10 @@
   padding: 0;
 }
 .App{
-  /* background-image: url("https://media.istockphoto.com/id/952039286/photo/abstract-background-wallpaper.jpg?b=1&s=170667a&w=0&k=20&c=O42TVdq7QcprHBQS6lrIw_AkF04c3AkyCmtM1ZGJitA=");
-  height: 1000px;
-  width: 1000px;
-  background-size: cover;
-  background-repeat: no-repeat; */
+  background-image: url("https://images.unsplash.com/photo-1617396900799-f4ec2b43c7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8&w=1000&q=80");
+  background-size:cover;
+  /* background-repeat: no-repeat; */
 
   background-color: rgb(202, 117, 233);
+  height: 713px;
 }
